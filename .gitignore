@@ -1,0 +1,8 @@
+﻿bin/
+obj/
+*.user
+.vscode/
+*.suo
+*.userosscache
+*.userprefs
+.env
